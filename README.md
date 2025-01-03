@@ -44,3 +44,4 @@ The frontend communicates with the backend API, which then uses OpenAI to genera
 
 In backend folder ther is a .env file 
 you can use your api key here
+![screencapture-localhost-5173-2025-01-03-13_57_03](https://github.com/user-attachments/assets/66af19c5-91b1-4247-a66e-2a26e8cd9559)
